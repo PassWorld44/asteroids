@@ -1,2 +1,2 @@
 # asteroids
-un début de aseroids en sfml
+un début d'implementation du jeu "aseroids" en sfml
